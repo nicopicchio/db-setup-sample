@@ -1,0 +1,6 @@
+C:\Users\piccni\dev\CarDealer\CarDealerDb\bin\Debug\CarDealerDb.dacpac
+C:\Users\piccni\dev\CarDealer\CarDealerDb\bin\Debug\CarDealerDb.dll
+C:\Users\piccni\dev\CarDealer\CarDealerDb\bin\Debug\CarDealerDb.pdb
+C:\Users\piccni\dev\CarDealer\CarDealerDb\obj\Debug\CarDealerDb.sqlproj.AssemblyReference.cache
+C:\Users\piccni\dev\CarDealer\CarDealerDb\obj\Debug\CarDealerDb.dll
+C:\Users\piccni\dev\CarDealer\CarDealerDb\obj\Debug\CarDealerDb.pdb
